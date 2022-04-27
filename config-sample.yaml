@@ -1,0 +1,3 @@
+token: '<getyourowntoken:)>'
+endpoint: 'https://highpoint.academicworks.com/api/v0/imports'
+export_file: 'C:\\SSIS\\AcademicWorks\\export.csv'
